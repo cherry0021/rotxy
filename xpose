@@ -1,0 +1,5 @@
+wget https://api.localxpose.io/api/v2/downloads/loclx-linux-amd64.zip
+unzip loclx-linux-amd64.zip
+./loclx account login
+ovX5tsZxasJ9kAakR4fDdAPXl2L7Vzvz338ychj1
+./loclx tunnel tcp --reserved-domain 'docproxy.ap.loclx.io'
